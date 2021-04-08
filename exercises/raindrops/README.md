@@ -1,6 +1,6 @@
 # Raindrops
 
-Create a function that converts a number to a string, the contents of which depend on the number's factors.
+Create a function that converts a number given as argument and converts it to a string as output, the contents of which depend on the number's factors.
 
 - If the number has 3 as a factor, output 'Pling'.
 - If the number has 5 as a factor, output 'Plang'.
